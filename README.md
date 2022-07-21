@@ -21,7 +21,7 @@
 <img src="https://www.zartis.com/wp-content/uploads/2021/12/spring-boot-logo.png" alt="spring" width="40" height="40"/> 
 </a> 
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> 
-<img src="https://everythingiknows.com/wp-content/uploads/2022/04/node-js-new.png" alt="spring" width="40" height="40"/> 
+<img src="https://www.svgrepo.com/show/303266/nodejs-icon-logo.svg" alt="spring" width="40" height="40"/> 
 </a> 
 <a href="https://dotnet.microsoft.com/en-us/apps/xamarin" target="_blank" rel="noreferrer"> 
 <img src="https://seeklogo.com/images/X/xamarin-logo-348B1EB629-seeklogo.com.png" alt="spring" width="40" height="40"/> 
