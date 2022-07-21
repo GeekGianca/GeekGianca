@@ -15,7 +15,19 @@
 <img src="https://www.svgrepo.com/show/303388/java-4-logo.svg" alt="java" width="40" height="40"/> 
 </a> 
 <a href="https://start.spring.io/" target="_blank" rel="noreferrer"> 
-<img src="https://cleventy.com/wp-content/uploads/2020/05/spring-boot.png" alt="spring" width="40" height="40"/> 
+<img src="https://picodotdev.github.io/blog-bitix/assets/images/logotypes/spring.svg" alt="spring" width="40" height="40"/> 
+</a> 
+<a href="https://start.spring.io/" target="_blank" rel="noreferrer"> 
+<img src="https://www.zartis.com/wp-content/uploads/2021/12/spring-boot-logo.png" alt="spring" width="40" height="40"/> 
+</a> 
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> 
+<img src="https://everythingiknows.com/wp-content/uploads/2022/04/node-js-new.png" alt="spring" width="40" height="40"/> 
+</a> 
+<a href="https://dotnet.microsoft.com/en-us/apps/xamarin" target="_blank" rel="noreferrer"> 
+<img src="https://seeklogo.com/images/X/xamarin-logo-348B1EB629-seeklogo.com.png" alt="spring" width="40" height="40"/> 
+</a> 
+<a href="https://ionicframework.com/" target="_blank" rel="noreferrer"> 
+<img src="https://www.svgrepo.com/show/353912/ionic-icon.svg" alt="spring" width="40" height="40"/> 
 </a> 
 </p>
 
