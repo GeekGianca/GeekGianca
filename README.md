@@ -1,8 +1,23 @@
 # Hello everyone <img align="center" src="https://media2.giphy.com/media/0CJakjZVp4VfDnh8BH/giphy.gif?cid=6c09b952d50028a35aaf5361798bbdb1720ec6290f2cb13e&rid=giphy.gif&ct=s" width="35">, I'm a software engineering specialist.<img align="center" alt="Android" width="55" src="https://media.giphy.com/media/MF1kR4YmC2Z20/giphy.gif" /></h2>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
-  <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a> </p>
+<h3 align="left">Tools, Languages, Frameworks and more:</h3>
+<p align="left"> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+</a> 
+<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
+</a>
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
+</a> 
+<a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> 
+<img src="https://www.svgrepo.com/show/303388/java-4-logo.svg" alt="java" width="40" height="40"/> 
+</a> 
+<a href="https://start.spring.io/" target="_blank" rel="noreferrer"> 
+<img src="https://cleventy.com/wp-content/uploads/2020/05/spring-boot.png" alt="spring" width="40" height="40"/> 
+</a> 
+</p>
 
 - 🔭 I’m currently working on Evertec Placetopay
 - 🌱 I’m currently learning architecture software
