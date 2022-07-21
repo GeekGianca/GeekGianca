@@ -29,6 +29,15 @@
 <a href="https://ionicframework.com/" target="_blank" rel="noreferrer"> 
 <img src="https://www.svgrepo.com/show/353912/ionic-icon.svg" alt="spring" width="40" height="40"/> 
 </a> 
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
+<img src="https://icons-for-free.com/download-icon-php+plain-1324760555060951567_512.png" alt="spring" width="40" height="40"/> 
+</a> 
+   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="spring" width="40" height="40"/> 
+</a> 
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" alt="spring" width="40" height="40"/> 
+</a> 
 </p>
 
 - 🔭 I’m currently working on Evertec Placetopay
