@@ -52,4 +52,4 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=GeekGianca&theme=tokyonight&show_icons=true&include_all_commits=true )](https://github.com/anuraghazra/github-readme-stats)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GeekGianca&theme=github-dark&hide_border=false" alt="GeekGianca"/></p>
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=GeekGianca&theme=rogue)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GeekGianca&custom_title=This%20is%20a%20title&hide_border=true)
