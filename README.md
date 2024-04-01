@@ -38,6 +38,10 @@
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/993px-Postgresql_elephant.svg.png" alt="spring" width="40" height="40"/> 
 </a> 
+  </a> 
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nestjs_logo_icon_169927.png" alt="nestjs" width="40" height="40"/> 
+</a> 
 </p>
 
 - 🔭 I’m currently working on Evertec Placetopay
