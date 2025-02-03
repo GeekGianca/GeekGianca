@@ -40,7 +40,7 @@
 </a> 
   </a> 
   <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/nestjs_logo_icon_169927.png" alt="nestjs" width="40" height="40"/> 
+<img src="https://static-00.iconduck.com/assets.00/nestjs-icon-2048x2040-3rrvcej8.png" alt="nestjs" width="40" height="40"/> 
 </a> 
 </p>
 
