@@ -53,6 +53,14 @@
 - 😄 Pronouns: Gianca
 - ⚡ Fun fact: I can learn extremely fast
 
+<h3 align="left">Apps & Deployments</h3>
+- https://play.google.com/store/apps/details?id=com.adds.coronel_app&pcampaignid=web_share
+- https://play.google.com/store/apps/details?id=co.com.gksoftware.leoentic&pcampaignid=web_share
+- https://play.google.com/store/apps/details?id=co.com.gksoftware.muisca&pcampaignid=web_share
+- https://admin.dev.muisca.net.co/
+- https://dev.api.muisca.net.co/
+
+
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=GeekGianca&theme=tokyonight&show_icons=true&include_all_commits=true )](https://github.com/anuraghazra/github-readme-stats)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GeekGianca&theme=github-dark&hide_border=false" alt="GeekGianca"/></p>
 
