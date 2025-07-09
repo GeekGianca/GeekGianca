@@ -44,7 +44,7 @@
 </a> 
 </p>
 
-- 🔭 I’m currently working on Evertec Placetopay
+- 🔭 ****
 - 🌱 I’m currently learning architecture software
 - 👯 I’m looking to collaborate on multiple projects
 - 🤔 I’m looking for help with professional skills y new technologies
